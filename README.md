@@ -22,7 +22,17 @@ alone.
 
 | Topic | Article | Sample app |
 |---|---|---|
-| [AppClips](./AppClips) | [App Clips in SwiftUI — Instant Experiences Without Installation](https://medium.com/@hariharan51215/app-clips-in-swiftui-instant-experiences-without-installation-b30a4a56f2ea) | [QuickOrder](./AppClips/QuickOrder) |
+| [Accelerate](./Accelerate) | [Accelerate Framework in Swift — Supercharge Your iOS & macOS Apps with Hardware-Optimized Math](https://medium.com/@hariharan51215/accelerate-framework-in-swift-supercharge-your-ios-macos-apps-with-hardware-optimized-math-8459a26e3a9e) | — |
+| [Accessibility](./Accessibility) | [Accessibility in SwiftUI — Building Apps Everyone Can Use](https://medium.com/@hariharan51215/accessibility-in-swiftui-building-apps-everyone-can-use-cc70e86d6829) | — |
+| [ActivityKit](./ActivityKit) | [ActivityKit in SwiftUI — Building Live Activities for the Lock Screen and Dynamic Island](https://medium.com/@hariharan51215/activitykit-in-swiftui-building-live-activities-for-the-lock-screen-and-dynamic-island-41fe7b07f81b) | — |
+| [AdAttributionKit](./AdAttributionKit) | [AdAttributionKit — Apple's Privacy-First Ad Attribution Framework Explained](https://medium.com/@hariharan51215/adattributionkit-apples-privacy-first-ad-attribution-framework-explained-a8098b8aaf28) | — |
+| [AdServicesAdSupport](./AdServicesAdSupport) | [AdServices & AdSupport — Apple Search Ads Attribution and the IDFA Explained](https://medium.com/@hariharan51215/adservices-adsupport-apple-search-ads-attribution-and-the-idfa-explained-a45edbafc505) | — |
+| [AdvancedCommerce](./AdvancedCommerce) | [Advanced Commerce API — Dynamic In-App Purchases for Large-Scale iOS Apps](https://medium.com/@hariharan51215/advanced-commerce-api-dynamic-in-app-purchases-for-large-scale-ios-apps-cb5ecc342445) | — |
 | [AlarmKit](./AlarmKit) | [AlarmKit in SwiftUI — Native Alarms That Break Through Silent Mode](https://medium.com/@hariharan51215/alarmkit-in-swiftui-native-alarms-that-break-through-silent-mode-2456674f6c5a) | [ChefTimer](./AlarmKit/ChefTimer) |
+| [AppClips](./AppClips) | [App Clips in SwiftUI — Instant Experiences Without Installation](https://medium.com/@hariharan51215/app-clips-in-swiftui-instant-experiences-without-installation-b30a4a56f2ea) | [QuickOrder](./AppClips/QuickOrder) |
+| [AppDataTransfer](./AppDataTransfer) | [Understanding Apple's App Data Transfer API: Giving Users Control of Their Data](https://medium.com/@hariharan51215/understanding-apples-app-data-transfer-api-giving-users-control-of-their-data-93820a88bd08) | — |
+| [AppIntents](./AppIntents) | [App Intents in SwiftUI — Letting Siri, Spotlight, and Shortcuts Speak Your App's Language](https://medium.com/@hariharan51215/app-intents-in-swiftui-letting-siri-spotlight-and-shortcuts-speak-your-apps-language-fc8d3066ed3b) | — |
+| [AppKit](./AppKit) | [AppKit: The macOS Framework That Refuses to Retire](https://medium.com/@hariharan51215/appkit-the-macos-framework-that-refuses-to-retire-d28f30832076) | — |
+| [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
 
 More topics are added here as the series continues.
