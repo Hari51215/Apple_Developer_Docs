@@ -36,5 +36,6 @@ alone.
 | [AppleAds](./AppleAds) | [Inside the Apple Ads API: How Search Ads Campaigns Actually Get Built](https://medium.com/@hariharan51215/inside-the-apple-ads-api-how-search-ads-campaigns-actually-get-built-c317cbfd0429) | — |
 | [AppleArchive](./AppleArchive) | [Apple Archive in Swift — Fast, Native Compression and Encryption Without Zip](https://medium.com/@hariharan51215/apple-archive-in-swift-fast-native-compression-and-encryption-without-zip-af1ae5027039) | — |
 | [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
+| [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
 
 More topics are added here as the series continues.
