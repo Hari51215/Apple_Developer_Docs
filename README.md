@@ -4,7 +4,7 @@ A personal journey through [Apple's Developer Documentation](https://developer.a
 one framework at a time, in alphabetical order. Each topic gets a companion article on Medium,
 and — when it genuinely helps explain the concept — a small SwiftUI sample app.
 
-📝 Articles: [medium.com/@hariharan51215](https://medium.com/@hariharan51215)
+📝 Articles: [hari51215.medium.com](https://hari51215.medium.com/)
 
 ## How this repo is organized
 
