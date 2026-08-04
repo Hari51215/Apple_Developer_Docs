@@ -16,3 +16,6 @@ DerivedData/
 .swiftpm/
 Packages/
 Package.resolved
+
+# Local-only project notes
+CLAUDE.md
