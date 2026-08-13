@@ -39,6 +39,7 @@ alone.
 | [AppleMusicAPI](./AppleMusicAPI) | [Understanding Apple Music API & Apple Music Feed: Real-Time Access vs. Bulk Data](https://medium.com/@hariharan51215/understanding-apple-music-api-apple-music-feed-real-time-access-vs-bulk-data-d43be5e0ab2c) | — |
 | [AppleNews](./AppleNews) | [Apple News Format: The Apple News API — Publishing Rich Articles Without Shipping an App](https://medium.com/@hari51215/apple-news-format-the-apple-news-api-publishing-rich-articles-without-shipping-an-app-497e1babdd43) | — |
 | [ApplePayMerchantAPIs](./ApplePayMerchantAPIs) | [Apple Pay Merchant APIs — Recurring Billing and Web Checkout, Explained](https://hari51215.medium.com/apple-pay-merchant-apis-recurring-billing-and-web-checkout-explained-ecff21ceb98c) | — |
+| [ApplePencil](./ApplePencil) | [Apple Pencil, Fully Explored: PencilKit, Scribble, Squeeze, and Everything Between](https://hari51215.medium.com/everything-you-need-to-know-about-apple-pencil-in-swiftui-uikit-pencilkit-gestures-more-2ee6438d16b0) | — |
 | [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
 | [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
 
