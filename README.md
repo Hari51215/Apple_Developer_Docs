@@ -45,6 +45,5 @@ alone.
 | [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
 | [ARKit](./ARKit) | [ARKit, Explained: How Apple's AR Framework Works — and a Plane-Detection App to Prove It](https://hari51215.medium.com/arkit-explained-how-apples-arkit-framework-works-and-a-plane-detection-app-to-prove-it-e3bd30b89e58) | [ARDrop](./ARKit/ARDrop) |
 | [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
-| [AudioDriverKit](./AudioDriverKit) | *Inside AudioDriverKit: Apple's Case for Never Writing a Kernel Extension Again* (draft, not yet published) | — |
 
 More topics are added here as the series continues.
