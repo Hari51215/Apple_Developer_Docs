@@ -40,7 +40,11 @@ alone.
 | [AppleNews](./AppleNews) | [Apple News Format: The Apple News API — Publishing Rich Articles Without Shipping an App](https://medium.com/@hari51215/apple-news-format-the-apple-news-api-publishing-rich-articles-without-shipping-an-app-497e1babdd43) | — |
 | [ApplePayMerchantAPIs](./ApplePayMerchantAPIs) | [Apple Pay Merchant APIs — Recurring Billing and Web Checkout, Explained](https://hari51215.medium.com/apple-pay-merchant-apis-recurring-billing-and-web-checkout-explained-ecff21ceb98c) | — |
 | [ApplePencil](./ApplePencil) | [Apple Pencil, Fully Explored: PencilKit, Scribble, Squeeze, and Everything Between](https://hari51215.medium.com/everything-you-need-to-know-about-apple-pencil-in-swiftui-uikit-pencilkit-gestures-more-2ee6438d16b0) | — |
+| [AppleSilicon](./AppleSilicon) | [Everything You Need to Know About Apple Silicon: Universal Binaries, Rosetta, Native Apps, & More](https://hari51215.medium.com/everything-you-need-to-know-about-apple-silicon-universal-binaries-rosetta-native-apps-more-faf03a5f44ed) | — |
+| [AppMigrationKit](./AppMigrationKit) | [Apple Just Built a Framework to Help You Leave iPhone. Here's What's Actually In It.](https://hari51215.medium.com/apple-just-built-a-framework-to-help-you-leave-iphone-heres-what-s-actually-in-it-9ea2505cdb76) | — |
 | [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
+| [ARKit](./ARKit) | [ARKit, Explained: How Apple's AR Framework Works — and a Plane-Detection App to Prove It](https://hari51215.medium.com/arkit-explained-how-apples-arkit-framework-works-and-a-plane-detection-app-to-prove-it-e3bd30b89e58) | [ARDrop](./ARKit/ARDrop) |
 | [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
+| [AudioDriverKit](./AudioDriverKit) | *Inside AudioDriverKit: Apple's Case for Never Writing a Kernel Extension Again* (draft, not yet published) | — |
 
 More topics are added here as the series continues.
