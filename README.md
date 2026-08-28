@@ -45,6 +45,7 @@ alone.
 | [AppStoreServerAPI](./AppStoreServerAPI) | [The Complete Guide to Apple's Server APIs — App Store Connect, Server API, Notifications & Analytics](https://medium.com/@hariharan51215/the-complete-guide-to-apples-server-apis-app-store-connect-server-api-notifications-6edeb0bb1671) | — |
 | [ARKit](./ARKit) | [ARKit, Explained: How Apple's AR Framework Works — and a Plane-Detection App to Prove It](https://hari51215.medium.com/arkit-explained-how-apples-arkit-framework-works-and-a-plane-detection-app-to-prove-it-e3bd30b89e58) | [ARDrop](./ARKit/ARDrop) |
 | [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
+| [AudioToolbox](./AudioToolbox) | [Audio Toolbox: What's Still Worth Learning in Apple's Oldest Audio Framework](https://hari51215.medium.com/audio-toolbox-whats-still-worth-learning-in-apple-s-oldest-audio-framework-ba22060c14c1) | [PixelJingle](./AudioToolbox/PixelJingle) |
 | [Assignables](./Assignables) | [Assignables: Apple's Quiet Framework for Merging PDF Assignments Across Devices](https://hari51215.medium.com/assignables-apples-quiet-framework-for-merging-pdf-assignments-across-devices-91f8803f1228) | — |
 
 More topics are added here as the series continues.
