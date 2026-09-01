@@ -47,5 +47,6 @@ alone.
 | [CryptoKit](./CryptoKit) | [CryptoKit in Swift — Native Encryption That Doesn't Require a Security Degree](https://medium.com/@hariharan51215/cryptokit-in-swift-native-encryption-that-doesnt-require-a-security-degree-fb51a93969d8) | — |
 | [AudioToolbox](./AudioToolbox) | [Audio Toolbox: What's Still Worth Learning in Apple's Oldest Audio Framework](https://hari51215.medium.com/audio-toolbox-whats-still-worth-learning-in-apple-s-oldest-audio-framework-ba22060c14c1) | [PixelJingle](./AudioToolbox/PixelJingle) |
 | [Assignables](./Assignables) | [Assignables: Apple's Quiet Framework for Merging PDF Assignments Across Devices](https://hari51215.medium.com/assignables-apples-quiet-framework-for-merging-pdf-assignments-across-devices-91f8803f1228) | — |
+| [AudioDriverKit](./AudioDriverKit) | [Inside AudioDriverKit: Apple's Case for Never Writing a Kernel Extension Again](https://hari51215.medium.com/inside-audiodriverkit-apples-case-for-never-writing-a-kernel-extension-again-e9970bf51101) | — |
 
 More topics are added here as the series continues.
