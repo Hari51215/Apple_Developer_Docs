@@ -50,5 +50,6 @@ alone.
 | 26 | [Assignables](./Assignables) | [Assignables: Apple's Quiet Framework for Merging PDF Assignments Across Devices](https://hari51215.medium.com/assignables-apples-quiet-framework-for-merging-pdf-assignments-across-devices-91f8803f1228) | — |
 | 27 | [AudioDriverKit](./AudioDriverKit) | [Inside AudioDriverKit: Apple's Case for Never Writing a Kernel Extension Again](https://hari51215.medium.com/inside-audiodriverkit-apples-case-for-never-writing-a-kernel-extension-again-e9970bf51101) | — |
 | 28 | [AuthenticationServices](./AuthenticationServices) | [Inside Apple's Authentication Services: How Apple Secures Identity Across Apple's Ecosystem](https://hari51215.medium.com/inside-apples-authentication-services-how-apple-secures-identity-across-apple-s-ecosystem-c298293554f3) | — |
+| 29 | [Automator](./Automator) | [Automator: The Mac's Oldest Automation Tool, and the One Framework Corner Apple Still Maintains](https://hari51215.medium.com/automator-the-macs-oldest-automation-tool-and-the-one-framework-corner-apple-still-maintains-84e9587d574e) | — |
 
 More topics are added here as the series continues.
