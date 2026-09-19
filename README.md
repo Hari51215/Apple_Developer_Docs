@@ -54,7 +54,5 @@ alone.
 | 30 | [AVFAudio](./AVFAudio) | [AVFAudio in SwiftUI — Recording, Live Effects, and the Rest of Apple's Audio Stack](https://hari51215.medium.com/avfaudio-in-swiftui-recording-live-effects-and-the-rest-of-apples-audio-stack-26d6775fafc7) | [EchoLab](./AVFAudio/EchoLab) |
 | 31 | [AVFoundation](./AVFoundation) | [AVFoundation in SwiftUI — Capturing, Playing Back, and Exporting Video](https://hari51215.medium.com/avfoundation-in-swiftui-capturing-playing-back-and-exporting-video-5fbdef3e7f31) | [SceneMix](./AVFoundation/SceneMix) |
 | 32 | [AVKit](./AVKit) | [Touring AVKit: Apple's Native Video Controls Across iOS, tvOS, macOS, and visionOS](https://hari51215.medium.com/avkit-apples-native-video-controls-across-ios-tvos-macos-and-visionos-98c138229e13) | — |
-| 33 | [CareKit](./CareKit) | [CareKit and the Anatomy of a Daily Care Plan (draft — not yet published)](./CareKit/article-draft.md) | — |
-| 34 | [CarPlay](./CarPlay) | [CarPlay: Designing Inside Someone Else's Dashboard (draft — not yet published)](./CarPlay/article-draft.md) | — |
 
 More topics are added here as the series continues.
