@@ -55,5 +55,6 @@ alone.
 | 31 | [AVFoundation](./AVFoundation) | [AVFoundation in SwiftUI — Capturing, Playing Back, and Exporting Video](https://hari51215.medium.com/avfoundation-in-swiftui-capturing-playing-back-and-exporting-video-5fbdef3e7f31) | [SceneMix](./AVFoundation/SceneMix) |
 | 32 | [AVKit](./AVKit) | [Touring AVKit: Apple's Native Video Controls Across iOS, tvOS, macOS, and visionOS](https://hari51215.medium.com/avkit-apples-native-video-controls-across-ios-tvos-macos-and-visionos-98c138229e13) | — |
 | 33 | [BackgroundAssets](./BackgroundAssets) | [Background Assets: Apple's Answer to the Slow First Launch](https://hari51215.medium.com/background-assets-apples-answer-to-the-slow-first-launch-be3f8a38239e) | — |
+| 34 | [BackgroundTasks](./BackgroundTasks) | [Background Tasks in iOS: What BGTaskScheduler Actually Promises (and What It Doesn't)](https://hari51215.medium.com/background-tasks-in-ios-what-bgtaskscheduler-actually-promises-and-what-it-doesnt-2c248d26ffbe) | — |
 
 More topics are added here as the series continues.
