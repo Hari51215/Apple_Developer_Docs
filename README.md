@@ -56,5 +56,6 @@ alone.
 | 32 | [AVKit](./AVKit) | [Touring AVKit: Apple's Native Video Controls Across iOS, tvOS, macOS, and visionOS](https://hari51215.medium.com/avkit-apples-native-video-controls-across-ios-tvos-macos-and-visionos-98c138229e13) | — |
 | 33 | [BackgroundAssets](./BackgroundAssets) | [Background Assets: Apple's Answer to the Slow First Launch](https://hari51215.medium.com/background-assets-apples-answer-to-the-slow-first-launch-be3f8a38239e) | — |
 | 34 | [BackgroundTasks](./BackgroundTasks) | [Background Tasks in iOS: What BGTaskScheduler Actually Promises (and What It Doesn't)](https://hari51215.medium.com/background-tasks-in-ios-what-bgtaskscheduler-actually-promises-and-what-it-doesnt-2c248d26ffbe) | — |
+| 35 | [BundleResources](./BundleResources) | [Bundle Resources: The Metadata Layer Every App Ships With](https://hari51215.medium.com/bundle-resources-the-metadata-layer-every-app-ships-with-876aa6e23c2e) | — |
 
 More topics are added here as the series continues.
