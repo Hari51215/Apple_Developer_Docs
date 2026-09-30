@@ -57,5 +57,6 @@ alone.
 | 33 | [BackgroundAssets](./BackgroundAssets) | [Background Assets: Apple's Answer to the Slow First Launch](https://hari51215.medium.com/background-assets-apples-answer-to-the-slow-first-launch-be3f8a38239e) | — |
 | 34 | [BackgroundTasks](./BackgroundTasks) | [Background Tasks in iOS: What BGTaskScheduler Actually Promises (and What It Doesn't)](https://hari51215.medium.com/background-tasks-in-ios-what-bgtaskscheduler-actually-promises-and-what-it-doesnt-2c248d26ffbe) | — |
 | 35 | [BundleResources](./BundleResources) | [Bundle Resources: The Metadata Layer Every App Ships With](https://hari51215.medium.com/bundle-resources-the-metadata-layer-every-app-ships-with-876aa6e23c2e) | — |
+| 36 | [BrowserEngineKit](./BrowserEngineKit) | [BrowserEngineKit: The Framework Apple Built for Browsers It Doesn't Want You Building](https://hari51215.medium.com/browserenginekit-the-framework-apple-built-for-browsers-it-doesnt-want-you-building-fa267e79961f) | — |
 
 More topics are added here as the series continues.
