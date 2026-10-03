@@ -58,5 +58,6 @@ alone.
 | 34 | [BackgroundTasks](./BackgroundTasks) | [Background Tasks in iOS: What BGTaskScheduler Actually Promises (and What It Doesn't)](https://hari51215.medium.com/background-tasks-in-ios-what-bgtaskscheduler-actually-promises-and-what-it-doesnt-2c248d26ffbe) | — |
 | 35 | [BundleResources](./BundleResources) | [Bundle Resources: The Metadata Layer Every App Ships With](https://hari51215.medium.com/bundle-resources-the-metadata-layer-every-app-ships-with-876aa6e23c2e) | — |
 | 36 | [BrowserEngineKit](./BrowserEngineKit) | [BrowserEngineKit: The Framework Apple Built for Browsers It Doesn't Want You Building](https://hari51215.medium.com/browserenginekit-the-framework-apple-built-for-browsers-it-doesnt-want-you-building-fa267e79961f) | — |
+| 37 | [BrowserKit](./BrowserKit) | [BrowserKit: Apple's Quiet Framework for Moving Bookmarks Between Rivals](https://hari51215.medium.com/browserkit-apples-quiet-framework-for-moving-bookmarks-between-rivals-0aaed9c3103c) | [Wayfarer](./BrowserKit/Wayfarer) |
 
 More topics are added here as the series continues.
