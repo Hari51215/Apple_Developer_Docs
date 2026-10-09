@@ -60,5 +60,6 @@ alone.
 | 36 | [BrowserEngineKit](./BrowserEngineKit) | [BrowserEngineKit: The Framework Apple Built for Browsers It Doesn't Want You Building](https://hari51215.medium.com/browserenginekit-the-framework-apple-built-for-browsers-it-doesnt-want-you-building-fa267e79961f) | — |
 | 37 | [BrowserKit](./BrowserKit) | [BrowserKit: Apple's Quiet Framework for Moving Bookmarks Between Rivals](https://hari51215.medium.com/browserkit-apples-quiet-framework-for-moving-bookmarks-between-rivals-0aaed9c3103c) | [Wayfarer](./BrowserKit/Wayfarer) |
 | 38 | [CallKit](./CallKit) | [Letting iOS Handle Your App's Calls with CallKit](https://hari51215.medium.com/letting-ios-handle-your-apps-calls-with-callkit-920ca1cd3e4d) | [CallBench](./CallKit/CallBench) |
+| 39 | [CareKit](./CareKit) | [CareKit and the Anatomy of a Daily Care Plan](https://hari51215.medium.com/carekit-and-the-anatomy-of-a-daily-care-plan-d486138d0624) | — |
 
 More topics are added here as the series continues.
