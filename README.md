@@ -63,5 +63,6 @@ alone.
 | 39 | [CareKit](./CareKit) | [CareKit and the Anatomy of a Daily Care Plan](https://hari51215.medium.com/carekit-and-the-anatomy-of-a-daily-care-plan-d486138d0624) | — |
 | 40 | [CarPlay](./CarPlay) | [CarPlay: Designing Inside Someone Else's Dashboard](https://hari51215.medium.com/carplay-designing-inside-someone-elses-dashboard-f063061156b4) | — |
 | 41 | [CFNetwork](./CFNetwork) | [The C Layer Under URLSession: A Close Look at CFNetwork](https://hari51215.medium.com/the-c-layer-under-urlsession-a-close-look-at-cfnetwork-b0641c7cf751) | — |
+| 42 | [Cinematic](./Cinematic) | [Focus Decisions, Not Keyframes: Editing Cinematic Mode Video in Swift](https://hari51215.medium.com/focus-decisions-not-keyframes-editing-cinematic-mode-video-in-swift-dccefafcb9e2) | — |
 
 More topics are added here as the series continues.
