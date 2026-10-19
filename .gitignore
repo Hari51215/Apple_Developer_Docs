@@ -19,3 +19,7 @@ Package.resolved
 
 # Local-only project notes
 CLAUDE.md
+
+# Local-only Claude tooling + LinkedIn drafts
+.claude/
+linkedin-post.md
