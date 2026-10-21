@@ -64,5 +64,6 @@ alone.
 | 40 | [CarPlay](./CarPlay) | [CarPlay: Designing Inside Someone Else's Dashboard](https://hari51215.medium.com/carplay-designing-inside-someone-elses-dashboard-f063061156b4) | — |
 | 41 | [CFNetwork](./CFNetwork) | [The C Layer Under URLSession: A Close Look at CFNetwork](https://hari51215.medium.com/the-c-layer-under-urlsession-a-close-look-at-cfnetwork-b0641c7cf751) | — |
 | 42 | [Cinematic](./Cinematic) | [Focus Decisions, Not Keyframes: Editing Cinematic Mode Video in Swift](https://hari51215.medium.com/focus-decisions-not-keyframes-editing-cinematic-mode-video-in-swift-dccefafcb9e2) | — |
+| 43 | [ClassKit](./ClassKit) | [ClassKit: Contexts, Activities, and the Save That Quietly Does Nothing](https://hari51215.medium.com/classkit-contexts-activities-and-the-save-that-quietly-does-nothing-0d4c66e33442) | — |
 
 More topics are added here as the series continues.
