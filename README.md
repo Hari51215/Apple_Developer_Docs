@@ -65,5 +65,6 @@ alone.
 | 41 | [CFNetwork](./CFNetwork) | [The C Layer Under URLSession: A Close Look at CFNetwork](https://hari51215.medium.com/the-c-layer-under-urlsession-a-close-look-at-cfnetwork-b0641c7cf751) | — |
 | 42 | [Cinematic](./Cinematic) | [Focus Decisions, Not Keyframes: Editing Cinematic Mode Video in Swift](https://hari51215.medium.com/focus-decisions-not-keyframes-editing-cinematic-mode-video-in-swift-dccefafcb9e2) | — |
 | 43 | [ClassKit](./ClassKit) | [ClassKit: Contexts, Activities, and the Save That Quietly Does Nothing](https://hari51215.medium.com/classkit-contexts-activities-and-the-save-that-quietly-does-nothing-0d4c66e33442) | — |
+| 44 | [ClockKit](./ClockKit) | [ClockKit After the Deprecation Notice: How Complications Worked and How to Get Off Them](https://hari51215.medium.com/clockkit-after-the-deprecation-notice-how-complications-worked-and-how-to-get-off-them-ef2fdbe9ca2f) | — |
 
 More topics are added here as the series continues.
