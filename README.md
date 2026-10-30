@@ -67,5 +67,6 @@ alone.
 | 43 | [ClassKit](./ClassKit) | [ClassKit: Contexts, Activities, and the Save That Quietly Does Nothing](https://hari51215.medium.com/classkit-contexts-activities-and-the-save-that-quietly-does-nothing-0d4c66e33442) | — |
 | 44 | [ClockKit](./ClockKit) | [ClockKit After the Deprecation Notice: How Complications Worked and How to Get Off Them](https://hari51215.medium.com/clockkit-after-the-deprecation-notice-how-complications-worked-and-how-to-get-off-them-ef2fdbe9ca2f) | — |
 | 45 | [CloudKit](./CloudKit) | [CloudKit from the Sync Engine Down: What CKSyncEngine Still Expects You to Own](https://hari51215.medium.com/cloudkit-from-the-sync-engine-down-what-cksyncengine-still-expects-you-to-own-c428caeed79b) | — |
+| 46 | [ColorSync](./ColorSync) | [Nearly Half of Display P3 Falls Outside sRGB, and Other Things ColorSync Will Tell You](https://hari51215.medium.com/nearly-half-of-display-p3-falls-outside-srgb-and-other-things-colorsync-will-tell-you-ce489df973d5) | — |
 
 More topics are added here as the series continues.
