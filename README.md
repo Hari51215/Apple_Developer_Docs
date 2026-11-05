@@ -69,5 +69,6 @@ alone.
 | 45 | [CloudKit](./CloudKit) | [CloudKit from the Sync Engine Down: What CKSyncEngine Still Expects You to Own](https://hari51215.medium.com/cloudkit-from-the-sync-engine-down-what-cksyncengine-still-expects-you-to-own-c428caeed79b) | — |
 | 46 | [ColorSync](./ColorSync) | [Nearly Half of Display P3 Falls Outside sRGB, and Other Things ColorSync Will Tell You](https://hari51215.medium.com/nearly-half-of-display-p3-falls-outside-srgb-and-other-things-colorsync-will-tell-you-ce489df973d5) | — |
 | 47 | [Combine](./Combine) | [Combine From the Demand Up: A Measured Tour of Publishers, Operators and Schedulers](https://hari51215.medium.com/combine-from-the-demand-up-a-measured-tour-of-publishers-operators-and-schedulers-2e588030aebf) | — |
+| 48 | [Compression](./Compression) | [LZFSE Is on Its Way Out: A Measured Tour of Apple's Compression Framework](https://hari51215.medium.com/lzfse-is-on-its-way-out-a-measured-tour-of-apples-compression-framework-1ea59e47fde4) | — |
 
 More topics are added here as the series continues.
