@@ -71,5 +71,6 @@ alone.
 | 47 | [Combine](./Combine) | [Combine From the Demand Up: A Measured Tour of Publishers, Operators and Schedulers](https://hari51215.medium.com/combine-from-the-demand-up-a-measured-tour-of-publishers-operators-and-schedulers-2e588030aebf) | — |
 | 48 | [Compression](./Compression) | [LZFSE Is on Its Way Out: A Measured Tour of Apple's Compression Framework](https://hari51215.medium.com/lzfse-is-on-its-way-out-a-measured-tour-of-apples-compression-framework-1ea59e47fde4) | — |
 | 49 | [Contacts](./Contacts) | [Contacts on iOS: What You Fetch Is All You Get](https://hari51215.medium.com/contacts-on-ios-what-you-fetch-is-all-you-get-c66529d36d2f) | [Rolodeck](./Contacts/Rolodeck) |
+| 50 | [CoreAI](./CoreAI) | [Core AI: Everything Expensive Happens Before Your First Inference](https://hari51215.medium.com/core-ai-everything-expensive-happens-before-your-first-inference-744064e40fd0) | — |
 
 More topics are added here as the series continues.
