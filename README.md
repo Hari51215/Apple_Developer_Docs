@@ -74,5 +74,6 @@ alone.
 | 50 | [CoreAI](./CoreAI) | [Core AI: Everything Expensive Happens Before Your First Inference](https://hari51215.medium.com/core-ai-everything-expensive-happens-before-your-first-inference-744064e40fd0) | — |
 | 51 | [CoreAnimation](./CoreAnimation) | [Core Animation, Layer by Layer: A SwiftUI Developer's Tour of QuartzCore](https://hari51215.medium.com/core-animation-layer-by-layer-a-swiftui-developers-tour-of-quartzcore-72445b45a95d) | [DropPoint](./CoreAnimation/DropPoint) |
 | 52 | [CoreAudio](./CoreAudio) | [Core Audio in Swift: Formats, Buffers, and the Half of It Your iPhone Never Gets](https://hari51215.medium.com/core-audio-in-swift-formats-buffers-and-the-half-of-it-your-iphone-never-gets-d6166e83bbd2) | — |
+| 53 | [CoreBluetooth](./CoreBluetooth) | [Core Bluetooth from the Headers Up: Roles, GATT, and the Parts the Docs Skip](https://hari51215.medium.com/core-bluetooth-from-the-headers-up-roles-gatt-and-the-parts-the-docs-skip-e1192c67cdfd) | — |
 
 More topics are added here as the series continues.
