@@ -75,5 +75,6 @@ alone.
 | 51 | [CoreAnimation](./CoreAnimation) | [Core Animation, Layer by Layer: A SwiftUI Developer's Tour of QuartzCore](https://hari51215.medium.com/core-animation-layer-by-layer-a-swiftui-developers-tour-of-quartzcore-72445b45a95d) | [DropPoint](./CoreAnimation/DropPoint) |
 | 52 | [CoreAudio](./CoreAudio) | [Core Audio in Swift: Formats, Buffers, and the Half of It Your iPhone Never Gets](https://hari51215.medium.com/core-audio-in-swift-formats-buffers-and-the-half-of-it-your-iphone-never-gets-d6166e83bbd2) | — |
 | 53 | [CoreBluetooth](./CoreBluetooth) | [Core Bluetooth from the Headers Up: Roles, GATT, and the Parts the Docs Skip](https://hari51215.medium.com/core-bluetooth-from-the-headers-up-roles-gatt-and-the-parts-the-docs-skip-e1192c67cdfd) | — |
+| 54 | [CoreData](./CoreData) | [Core Data in Practice: The Compiled Model, the Context Rules, and the Requests That Skip Them](https://hari51215.medium.com/core-data-in-practice-the-compiled-model-the-context-rules-and-the-requests-that-skip-them-de591e014db0) | [Shelfmark](./CoreData/Shelfmark) |
 
 More topics are added here as the series continues.
