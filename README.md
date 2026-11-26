@@ -76,5 +76,6 @@ alone.
 | 52 | [CoreAudio](./CoreAudio) | [Core Audio in Swift: Formats, Buffers, and the Half of It Your iPhone Never Gets](https://hari51215.medium.com/core-audio-in-swift-formats-buffers-and-the-half-of-it-your-iphone-never-gets-d6166e83bbd2) | — |
 | 53 | [CoreBluetooth](./CoreBluetooth) | [Core Bluetooth from the Headers Up: Roles, GATT, and the Parts the Docs Skip](https://hari51215.medium.com/core-bluetooth-from-the-headers-up-roles-gatt-and-the-parts-the-docs-skip-e1192c67cdfd) | — |
 | 54 | [CoreData](./CoreData) | [Core Data in Practice: The Compiled Model, the Context Rules, and the Requests That Skip Them](https://hari51215.medium.com/core-data-in-practice-the-compiled-model-the-context-rules-and-the-requests-that-skip-them-de591e014db0) | [Shelfmark](./CoreData/Shelfmark) |
+| 55 | [CoreFoundation](./CoreFoundation) | [A Walk Through Core Foundation: From CFTypeRef to the Darwin Notify Center](https://hari51215.medium.com/a-walk-through-core-foundation-from-cftyperef-to-the-darwin-notify-center-36ab4e6b0c1f) | — |
 
 More topics are added here as the series continues.
